@@ -1,5 +1,5 @@
 # UDP_Server
-## [Client repo](https://github.com/SOFTBoiS/UDP_Client)  
+## [Click here for the client repo](https://github.com/SOFTBoiS/UDP_Client)  
 Our proposed solution to the assignment at the bottom of this page:  
 https://datsoftlyngby.github.io/soft2020fall/resources/f72fb747-P3-UDP.html
 ### Usage  
